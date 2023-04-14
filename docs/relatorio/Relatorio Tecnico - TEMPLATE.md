@@ -268,7 +268,7 @@ Visando um site mais acessivel para idosos, colocamos ferramentas mais intuitiva
 >
 > Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
 > pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
+> o andamento do projeto, a execução d as tarefas e o status de desenvolvimento
 > da solução.
 > 
 > **Links Úteis**:
