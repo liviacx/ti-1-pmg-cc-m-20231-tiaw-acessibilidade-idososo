@@ -6,7 +6,7 @@ O nosso projeto visa idosos que necessitam de ajuda em tarefas díaras. Faremos 
 
 * Lucas Alkmim Barros
 * Daniela Santos Nacur
-* Lívia Câmara Xavier 
+* Lívia Câmara Xavier
 * Erick Toshio Scarpelli Yamada
 
 ## Professores responsáveis
